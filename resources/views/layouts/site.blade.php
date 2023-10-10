@@ -5,7 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta charset="UTF-8">
  <link rel="alternate" hreflang="vi-vn" />
-	<title>Đàn Piano Ngọc Hải giá tốt</title>
+	<title>Gau Bong Ngoc Hai</title>
   
 	<meta itemprop="description" name="description" content="Mua bán đàn piano cơ, đàn piano điện chính hãng, trả góp, bảo hành 1-10 năm, giao hàng tận nhà. Nhiều mẫu đàn piano cơ, piano điện giá rẻ cho bạn lựa chọn. " />
 	<meta name="keywords" itemprop="keywords" content="Đàn piano, dan piano, piano" />
@@ -26,7 +26,7 @@
 "name": "admin"
 },
 "datePublished" : "2018-01-01",
-"headline" : "Bán Đàn Piano Cơ Mới, Piano Điện Mới Chính Hãng, Giá Tốt 2023",
+"headline" : "Gấu Bông cute, dễ thương.",
 "dateModified" : "2018-01-01",
 "mainEntityOfPage": {
   "@type": "WebPage",
